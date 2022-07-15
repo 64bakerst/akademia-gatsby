@@ -1,3 +1,9 @@
 {
+  "theme": "moonstone",
+  "cssTheme": "Prism",
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ],
+  "translucency": false,
   "baseFontSize": 16
 }
